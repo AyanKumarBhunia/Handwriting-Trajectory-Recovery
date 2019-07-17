@@ -2,7 +2,7 @@
 Handwriting Trajectory Recovery using End-to-End Deep Encoder-Decoder Network, ICPR 2018. 
 
 ## Architecture
-![Architecture](Supervised Trajectory Recovery.png)
+![Architecture](Supervised%20Trajectory%20Recovery.png)
 
 ## Citation
 
